@@ -1,6 +1,6 @@
 const config = {
     // Domain restriction
-    allowedDomains: [],
+    allowedDomains: ['redhillslab.com'],
     
     // Privacy policy URL (configurable)
     privacyPolicyUrl: 'https://redhillslab.com/privacy-policy/', // Add your full privacy policy URL here
